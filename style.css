@@ -27,7 +27,7 @@ html{
 
 body{
   height: 100%;
-  background: linear-gradient(45deg,rgb(74, 245, 139),rgb(52, 248, 255));
+  background: linear-gradient(45deg,rgb(245, 234, 74),rgb(255, 164, 52));
 }
 .container{
     /* background:linear-gradient(45deg, rgb(236, 199, 76) 20%, rgb(124, 255, 37)); */
@@ -47,7 +47,7 @@ body{
     margin-right: 1.6rem;
 }
 .logo{
-    width: 5rem;
+    width: 12rem;
     cursor: pointer;
     margin: 3rem 0;
 }
@@ -137,7 +137,7 @@ nav ul li a:hover{
     font-size: 2.2rem;
 }
 .footer{
-    background: linear-gradient(45deg,rgb(74, 245, 139),rgb(52, 248, 255));
+    background: linear-gradient(45deg,rgb(219, 245, 74),rgb(255, 191, 52));
 
     padding-right: 8%;
     padding-left: 8%;
